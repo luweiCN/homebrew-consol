@@ -1,8 +1,8 @@
 class Consol < Formula
   desc "Smart contract console for Solidity and EVM development"
   homepage "https://github.com/luweiCN/consol"
-  url "https://github.com/luweiCN/consol/archive/refs/tags/v0.13.1.tar.gz"
-  sha256 "2689cf2c7db74c9a0e3ee6000c0c2d8828a9fc1fabb22fb4b51599f1360d6414"
+  url "https://github.com/luweiCN/consol/archive/refs/tags/v0.13.2.tar.gz"
+  sha256 "f055f7e00a7049bf7a42546ad4f267d5ce71684bbdff2e179d187502eb6b14d3"
   license "MIT"
 
   depends_on "bun" => :build
